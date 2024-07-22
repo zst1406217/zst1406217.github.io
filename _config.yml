@@ -21,9 +21,9 @@ repository               : "zst1406217/zst1406217.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "new_image.jpg"
   name             : "Shaoting Zhu"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/his"  
   bio              : "4-year old undergraduate at ZJU, incoming PhD at THU"
   location         : "Hangzhou, China"
   employer         : "Zhejiang University"
