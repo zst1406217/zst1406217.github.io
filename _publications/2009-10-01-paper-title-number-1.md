@@ -2,6 +2,7 @@
 title: "Multimodal-driven Talking Face Generation via a Unified Diffusion-based Generator"
 collection: publications
 permalink: /publication/1
+excerpt: "In this work, we first represent the emotion in the text prompt, which could inherit rich semantics from the CLIP, allowing flexible and generalized emotion control. We further reorganize these tasks as the target-oriented texture transfer and adopt the Diffusion Models."
 date: 2023-05-09
 venue: 'Arxiv'
 paperurl: 'https://arxiv.org/abs/2305.02594'
