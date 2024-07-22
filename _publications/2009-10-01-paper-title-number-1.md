@@ -2,8 +2,7 @@
 title: "Multimodal-driven Talking Face Generation via a Unified Diffusion-based Generator"
 collection: publications
 permalink: /publication/1
-excerpt: "123"
-date: 2023
+date: 2023-05-09
 venue: 'Arxiv'
 paperurl: 'https://arxiv.org/abs/2305.02594'
 ---
