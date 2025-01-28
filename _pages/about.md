@@ -13,4 +13,4 @@ I am very fortunate to be advised by [Prof. Hang Zhao](https://hangzhaomit.githu
 
 I like to make handicrafts in my spare time, such as origami, handicrafts. Also, I love doing outdoor activities, especially traveling and road trip.
 
-[Email](mailto:zhust@zju.edu.cn) / [Google Scholar](https://scholar.google.com/citations?user=BE7NiFcAAAAJ&hl=zh-CN&oi=ao) / [Github](https://github.com/zst1406217) / [CSDN](https://blog.csdn.net/weixin_56867479?type=blog)
+[Email](mailto:zhust24@mails.tsinghua.edu.cn) / [Google Scholar](https://scholar.google.com/citations?user=BE7NiFcAAAAJ&hl=zh-CN&oi=ao) / [Github](https://github.com/zst1406217) / [CSDN](https://blog.csdn.net/weixin_56867479?type=blog)
