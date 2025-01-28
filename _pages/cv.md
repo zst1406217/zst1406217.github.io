@@ -11,8 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in IIIS, Tsinghua University, Start from 2024
-* B.S. in CSE, Zhejiang University, 2020 (GPA: 92.94/100, Rank: 1/126)
+* Ph.D in IIIS, Tsinghua University, 2024-now
+* B.S. in CSE, Zhejiang University, 2020-2024 (GPA: 92.94/100, Rank: 1/126)
+
+Teaching
+======
+* Advances in Autonomous Driving and Intelligent Vehicles (2024 Fall, Teaching Assistant)
 
 Work experience
 ======
