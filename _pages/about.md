@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Hey, I'm Shaoting, a 4-year undergraduate student from Zhejiang University. In this year, I will attend Tsinghua University to pursue my PhD. My research interest includes robotics and computer vision.
+Hey, I'm Shaoting, a first-year PhD student at Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University. My research interest includes robotics, computer vision and artificial intelligence.
 
-I am very fortunate to be advised by [Prof. Yong Liu](https://scholar.google.com/citations?user=qYcgBbEAAAAJ&hl=en) of APRIL Lab from [CSE](http://cse.zju.edu.cn/), Zhejiang University. I will be advised by [Prof. Hang Zhao](https://hangzhaomit.github.io/) of MARS Lab from [IIIS](https://iiis.tsinghua.edu.cn), Tsinghua University.
+I am very fortunate to be advised by [Prof. Hang Zhao](https://hangzhaomit.github.io/) of MARS Lab from [IIIS](https://iiis.tsinghua.edu.cn/en/), Tsinghua University. Before that, I received my bachelor's degree from Zhejiang University. I was advised by [Prof. Yong Liu](https://scholar.google.com/citations?user=qYcgBbEAAAAJ&hl=en) of APRIL Lab from [CSE](http://cse.zju.edu.cn/).
 
 I like to make handicrafts in my spare time, such as origami, handicrafts. Also, I love doing outdoor activities, especially traveling and road trip.
 
-[Email](mailto:zhust@zju.edu.cn) / [Github](https://github.com/zst1406217) / [CSDN](https://blog.csdn.net/weixin_56867479?type=blog)
+[Email](mailto:zhust@zju.edu.cn) / [Google Scholar](https://scholar.google.com/citations?user=BE7NiFcAAAAJ&hl=zh-CN&oi=ao) / [Github](https://github.com/zst1406217) / [CSDN](https://blog.csdn.net/weixin_56867479?type=blog)
