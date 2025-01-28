@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "new_image.jpg"
   name             : "Shaoting Zhu"
-  pronouns         : "he/his"  
-  bio              : "first-year PhD student at IIIS, THU"
+  pronouns         : # URL 
+  bio              : "First-year PhD student at IIIS, THU"
   location         : "Beijing, China"
   employer         : "Tsinghua University"
   uri              : # URL
