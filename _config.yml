@@ -24,15 +24,15 @@ author:
   avatar           : "new_image.jpg"
   name             : "Shaoting Zhu"
   pronouns         : "he/his"  
-  bio              : "4-year old undergraduate at ZJU, incoming PhD at THU"
-  location         : "Hangzhou, China"
-  employer         : "Zhejiang University"
+  bio              : "first-year PhD student at IIIS, THU"
+  location         : "Beijing, China"
+  employer         : "Tsinghua University"
   uri              : # URL
-  email            : "zhust@zju.edu.cn" 
+  email            : "zhust24@mails.tsinghua.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # URL
+  googlescholar    : https://scholar.google.com/citations?user=BE7NiFcAAAAJ&hl=zh-CN&oi=ao
   impactstory      : # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0009-0000-9294-6212"
   semantic         : # URL
