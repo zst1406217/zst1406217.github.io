@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in IIIS, Tsinghua University, 2024-now
-* B.S. in CSE, Zhejiang University, 2020-2024 (GPA: 92.94/100, Rank: 1/126)
+* Ph.D in Computer Science, IIIS, Tsinghua University, 2024-now
+* B.S. in Control Science and Engineering, Zhejiang University, 2020-2024 (GPA: 92.94/100, Rank: 1/126)
 
 Teaching
 ======
